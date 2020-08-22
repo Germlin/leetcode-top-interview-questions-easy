@@ -1,4 +1,4 @@
-package array;
+package com.germlin.array;
 
 import com.germlin.array.SingleNumber;
 import org.junit.jupiter.api.Test;

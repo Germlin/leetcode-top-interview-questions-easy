@@ -1,6 +1,5 @@
-package array;
+package com.germlin.array;
 
-import com.germlin.array.ContainsDuplicate;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
