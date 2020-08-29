@@ -24,5 +24,9 @@ LeetCode《 [初级算法](https://leetcode-cn.com/leetbook/read/top-interview-q
 |[反转字符串](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnhbqj/)|[ReverseString](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/string/ReverseString.java)|
 |[整数反转](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnx13t/)|[Reverse](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/string/Reverse.java)|
 |[字符串中的第一个唯一字符](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xn5z8r/)|[FirstUniqChar](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/string/FirstUniqChar.java)|
-|[有效的字母异位词](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xn5z8r/)|[Anagram](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/string/Anagram.java)|
-
+|[有效的字母异位词](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xn96us/)|[Anagram](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/string/Anagram.java)|
+|[验证回文串](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xne8id/)|[Palindrome](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/string/Palindrome.java)|
+|[字符串转换整数](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnoilh/)|[AtoI](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/string/AtoI.java)|
+|[实现 strStr()](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnr003/)|[StrStr](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/string/StrStr.java)|
+|[外观数列](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnpvdm/)|[CountAndSay](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/string/CountAndSay.java)|
+|[最长公共前缀](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnmav1/)|[LongestCommonPrefix](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/string/LongestCommonPrefix.java)|
