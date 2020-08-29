@@ -21,5 +21,8 @@ LeetCode《 [初级算法](https://leetcode-cn.com/leetbook/read/top-interview-q
 ### 字符串
 |题目|代码|
 |---|---|
-|[反转字符串](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnhbqj/)|[RotateImage](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/array/ReverseString.java)|
-|[整数反转](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnx13t/)|[RotateImage](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/array/Reverse.java)|
+|[反转字符串](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnhbqj/)|[ReverseString](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/string/ReverseString.java)|
+|[整数反转](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnx13t/)|[Reverse](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/string/Reverse.java)|
+|[字符串中的第一个唯一字符](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xn5z8r/)|[FirstUniqChar](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/string/FirstUniqChar.java)|
+|[有效的字母异位词](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xn5z8r/)|[Anagram](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/string/Anagram.java)|
+
