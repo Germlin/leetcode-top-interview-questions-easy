@@ -2,6 +2,8 @@
 
 LeetCode《 [初级算法](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/) 》中通过的代码。
 
+`src/test/`目录下有大部分题目的测试样例。
+
 ## 代码目录
 ### 数组
 |题目|代码|
@@ -40,3 +42,9 @@ LeetCode《 [初级算法](https://leetcode-cn.com/leetbook/read/top-interview-q
 |[合并两个有序链表](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnnbp2/)|[MergeTwoLists](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/list/MergeTwoLists.java)|
 |[回文链表](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnv1oc/)|[PalindromeList](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/list/PalindromeList.java)|
 |[环形链表](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnwzei/)|[CycleList](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/list/CycleList.java)|
+
+### 树
+|题目|代码|
+|---|---|
+|[二叉树的最大深度](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnd69e/)|[MaxDepth](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/tree/MaxDepth.java)|
+
