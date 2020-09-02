@@ -47,4 +47,7 @@ LeetCode《 [初级算法](https://leetcode-cn.com/leetbook/read/top-interview-q
 |题目|代码|
 |---|---|
 |[二叉树的最大深度](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnd69e/)|[MaxDepth](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/tree/MaxDepth.java)|
+|[验证二叉搜索树](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xn08xg/)|[ValidBST](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/tree/ValidBST.java)|
+|[对称二叉树](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xn7ihv/)|[Symmetric](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/tree/Symmetric.java)|
+
 

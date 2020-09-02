@@ -21,7 +21,7 @@ public class TreeNode {
     }
 
     private TreeNode build(Integer[] vals, int index) {
-        if (index > vals.length || vals[index] == null) {
+        if (index >= vals.length || vals[index] == null) {
             return null;
         }
         TreeNode node = new TreeNode(vals[index]);
