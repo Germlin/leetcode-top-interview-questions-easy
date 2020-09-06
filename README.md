@@ -51,3 +51,9 @@ LeetCode《 [初级算法](https://leetcode-cn.com/leetbook/read/top-interview-q
 |[对称二叉树](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xn7ihv/)|[Symmetric](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/tree/Symmetric.java)|
 |[二叉树的层序遍历](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnldjj/)|[LevelOrder](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/tree/LevelOrder.java)|
 |[将有序数组转换为二叉搜索树](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xninbt/)|[SortedArrayToBST](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/tree/SortedArrayToBST.java)|
+
+### 排序和搜索
+|题目|代码|
+|---|---|
+|[合并两个有序数组](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnumcr/)|[Merge](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/sort/Merge.java)|
+|[第一个错误的版本](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnto1s/)|[FirstBadVersion](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/sort/FirstBadVersion.java)|
