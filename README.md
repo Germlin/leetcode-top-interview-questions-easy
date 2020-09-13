@@ -2,6 +2,8 @@
 
 LeetCode《 [初级算法](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/) 》中通过的代码。
 
+LeetCode题目需要登录才能看到。
+
 `src/test/`目录下有大部分题目的测试样例。
 
 ## 代码目录
@@ -57,3 +59,11 @@ LeetCode《 [初级算法](https://leetcode-cn.com/leetbook/read/top-interview-q
 |---|---|
 |[合并两个有序数组](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnumcr/)|[Merge](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/sort/Merge.java)|
 |[第一个错误的版本](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnto1s/)|[FirstBadVersion](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/sort/FirstBadVersion.java)|
+
+### 动态规划
+|题目|代码|
+|---|---|
+|[爬楼梯](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xn854d/)|[ClimbStairs](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/dynamic/ClimbStairs.java)|
+|[买卖股票的最佳时机](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xn8fsh/)|[MaxProfit](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/dynamic/MaxProfit.java)|
+|[最大子序和](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xn3cg3/)|[MaxSubArray](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/dynamic/MaxSubArray.java)|
+|[打家劫舍](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnq4km/)|[Rob](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/dynamic/Rob.java)|
