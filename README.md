@@ -67,3 +67,9 @@ LeetCode题目需要登录才能看到。
 |[买卖股票的最佳时机](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xn8fsh/)|[MaxProfit](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/dynamic/MaxProfit.java)|
 |[最大子序和](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xn3cg3/)|[MaxSubArray](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/dynamic/MaxSubArray.java)|
 |[打家劫舍](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnq4km/)|[Rob](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/dynamic/Rob.java)|
+
+### 设计问题
+|题目|代码|
+|---|---|
+|[打乱数组](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xn6gq1/)|[ShuffleArray](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/design/ShuffleArray.java)|
+|[最小栈](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnkq37/)|[MinStack](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/design/MinStack.java)|
