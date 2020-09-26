@@ -4,7 +4,7 @@ LeetCode《 [初级算法](https://leetcode-cn.com/leetbook/read/top-interview-q
 
 LeetCode题目需要登录才能看到。
 
-`src/test/`目录下有大部分题目的测试样例。
+`src/test/`目录下有部分题目的测试样例。
 
 ## 代码目录
 ### 数组
@@ -73,3 +73,11 @@ LeetCode题目需要登录才能看到。
 |---|---|
 |[打乱数组](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xn6gq1/)|[ShuffleArray](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/design/ShuffleArray.java)|
 |[最小栈](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnkq37/)|[MinStack](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/design/MinStack.java)|
+
+### 数学
+|题目|代码|
+|---|---|
+|[Fizz Buzz](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xngt85/)|[FizzBuzz](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/math/FizzBuzz.java)|
+|[计数质数](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnzlu6/)|[CountPrimes](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/math/CountPrimes.java)|
+|[3的幂](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnsdi2/)|[PowerOfThree](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/math/PowerOfThree.java)|
+|[罗马数字转整数](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xn4n7c/)|[RomanNumber](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/math/RomanNumber.java)|
