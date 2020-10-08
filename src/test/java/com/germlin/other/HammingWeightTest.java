@@ -4,11 +4,11 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-class HamminWeightTest {
+class HammingWeightTest {
 
     @Test
     void solution() {
-        HamminWeight hamminWeight = new HamminWeight();
-        assertEquals(3,hamminWeight.solution(11));
+        HammingWeight hammingWeight = new HammingWeight();
+        assertEquals(3, hammingWeight.solution(11));
     }
 }
