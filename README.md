@@ -81,3 +81,13 @@ LeetCode题目需要登录才能看到。
 |[计数质数](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnzlu6/)|[CountPrimes](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/math/CountPrimes.java)|
 |[3的幂](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnsdi2/)|[PowerOfThree](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/math/PowerOfThree.java)|
 |[罗马数字转整数](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xn4n7c/)|[RomanNumber](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/math/RomanNumber.java)|
+
+### 其他
+|题目|代码|
+|---|---|
+|[位1的个数](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xn1m0i/)|[HammingWeight](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/other/HammingWeight.java)|
+|[汉明距离](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnyode/)|[HammingDistance](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/other/HammingDistance.java)|
+|[颠倒二进制位](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnc5vg/)|[ReverseBits](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/other/ReverseBits.java)|
+|[杨辉三角](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xncfnv/)|[Generate](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/other/Generate.java)|
+|[有效的括号](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnbcaj/)|[IsValid](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/other/IsValid.java)|
+|[缺失数字](https://leetcode-cn.com/leetbook/read/top-interview-questions-easy/xnj4mt/)|[MissingNumber](https://github.com/Germlin/leetcode-top-interview-questions-easy/blob/master/src/main/java/com/germlin/other/MissingNumber.java)|
